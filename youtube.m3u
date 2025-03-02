@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/V6_News_logo.png" tvg-id="", V6 News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740907157/ei/Nc7DZ7G5DLOU2_gPmc-wsQU/ip/20.102.199.138/id/_xtceKvlVYQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51399975/txs/51399971%2C51399972%2C51399973%2C51399974%2C51399975%2C51399976%2C51399977%2C51399978/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wCd_JWhxQJvWizuGOBKLVcQfmChA5i2JgIyjCfaIEmj-iltEiYI6T0ntvmRh0PN2A5kMz9i_Hh/spc/RjZbSQV-X9qEOKxCLyq05YJMlKnAzN9kFHqXFWM3z5W85XCRBF3J5760AaxBRdo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIWu8r-LoZMdE8hCK1HzciE51pH_TIz4XKybCXW7puVYCIQCY0g20-Rx1TwzGYo6RM7GOWmRiKY1Q7wJC8JGkeQ6GXg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png" tvg-id="", T News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
