@@ -228,7 +228,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rodos Palladium Beach Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753229689/ei/GdV_aIbkDua7kucPkMTHyQ4/ip/20.51.198.193/id/drhmo4XSVYA.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51526548/txs/51526545%2C51526546%2C51526547%2C51526548/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPCDON5aV6BVmhZXCXD0upHHOMybZcp6LVIVPd10xLvD_wU8YJFJ9KnBbzLi8LSTD5Bawi05YE8/spc/l3OVKZ2bSu7WgeNxn65GDnzDJHouAGmfMR6e3eDC2eRs3NhOCrEjZxDreVlt9N6Tp7Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLB-UulSSCwFaUC6XpdAQAi3NWY4LphTg7PpOlwS-wpACIBvRzhneH8QT0DA-crDdD3c_QFb289qUlfVIai3T8g42/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", OE24 TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -504,7 +504,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Wang Gao Liao
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753218837/ei/tap_aNuNNLaLsfIP4fTPqAw/ip/40.65.58.134/id/lhXXhDyjFtI.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMMwj3tUp0LNJZ-9E3Yn1xIYG3G3vNSYlvvIkUEMhN5gN8C-_QYp9Qni9YOa5bcZE_WZ2IJD61X/spc/l3OVKY5ZBENlB88mt0GI_zj4bl-DHZ8bHJEnHKLMO6DK7SCcJGLef9wsP25Z2eSnP18/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMvadnAzEGLP3AxJOSKpYrNn_7K2D9G4RhA0YxzKISoaAiAuuLDGx9ac-eh-CwlTwbpgpEBzMitOWFih7YnVbh9yaQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Gaomei Wetland 4K Live Camera
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
