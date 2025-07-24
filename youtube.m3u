@@ -546,7 +546,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" tvg-id="", NASA Live: Official Stream of NASA TV's Media Channel
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753381285/ei/RSWCaMWsAYbGmLEPwKqx4As/ip/64.236.135.18/id/DIgkvm2nmHc.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOz1wq5U88Z2FkOyNDj8RTf6DNfPPI9kBNhkxYQKBVt_in7ihOdtlcsAsrFvogo7_duVbjJ_EEY/spc/l3OVKd67TnlhetLKuMh5DWFBtathbiZUBYBwMnjZGZ59-FawSGuktv0_FMrwgp2y1Kc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJrGYfy7enKEBAWzOXGKoQDKVqMH410pu2ntN75Hm68YAiEA7rRrM02UJPC-wm0Zwl7bihhYm5pMWtsKT975cnluf7s%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Romania" tvg-logo="" tvg-id="", Euronews România LIVE
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
