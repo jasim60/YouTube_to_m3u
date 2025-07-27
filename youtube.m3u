@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" tvg-id="", Asianet Suvarna News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753599282/ei/0niFaKjTFrK2kucP2NL4uA0/ip/172.208.125.193/id/I0TWaqEHhSI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNYq7Ege7iz8kTHD-KVtWtmD20vsk232q-WFm6WLd2oLA0k-KN77VeMys5V9xPOsJQUABT56zdm/spc/l3OVKVxrgF-olNDd54wKjLkTKdox_Y0SgQP9VvvMPbU6VcrCD0jlI0-qVdzqfTQzUQI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJLSEJExRKSXQ4OUn_2bf8na2jx1yJ3lwvIJVnyYg-ocAiAGjECl1e-iF6SifPBetCErzGVk-efAvOgweYRYpWWiRg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -372,10 +372,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753599352/ei/GHmFaLueHKq5kucP9eeV2Ao/ip/172.208.125.193/id/2mCSYvcfhtc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLO1nJQrkEZNnZyNFXyw_jE-VG0T_WSfyfMav0GbZAaxFLcjUVil4kBWZc7bSmLSLWHavOGjsFs4/spc/l3OVKYt-xTGVftfO37V-X7wC63Kg9logoL9sODimzRd4bpFnr-EMAKp72bQvUzcQlTs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgb2ZD4giGE2dpqwf3k4L0rF8P4ZwYwN0-D2tT3NqQAOUCIQC5wTQ1_xKBD8-6LJhh7VOq4Nyu_9wSCDrsHOGyffpVLg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan TTV News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753599353/ei/GXmFaOHxBYeVkucP4qyR2Ak/ip/172.208.125.193/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLO5LOmUBUV5_VVhToroVrk9_wj5J4aL0Bg0u7gPFBdRFxk32ll8w2bYMXjy0HIU3E7FkJxlV3QP/spc/l3OVKedHoXf3tYTbWi2djS0irg3WUkFVYrZKHNr_RiNeqpLL9xld_Rq9cvA2z2iXBPQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfNFZUczerBS-Ef41gB62l3H1opMHS2r7Ava0F0FurKUCIA9xdkscpW8RyvomEW_bu2Js_Mq6HVsf4eop6jUq-M5-/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SET Live News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
