@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760078439/ei/B1boaJPQM_iNmLQP8qG82Ak/ip/135.232.232.88/id/-C2gHpLZZy8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567915/txs/51567915%2C51567916%2C51567919/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSWiPQ7eEfp_Y_MOhG4_Fa8D0NFwgWg_wivi_6Gghemej8IcCS1Pw5By12anQRCrmW3t4TP4Vhxy/spc/hcYD5fBopJ9HZsfLTybtkza2q9v3zrSqRFRs_7eOFfBc2e1VYzG4Nagxm52AncvIOws/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALDF_v3m1G6wmt2D2McvWONQP2g1eElw96gsdfONJ_MvAiBWx7KWoZl54GG5ARX9L_opAEjuh2gfPutIMp4YRbUFQw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -429,7 +429,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760078576/ei/kFboaIbNMK6a2_gPkcaUkQ8/ip/135.232.232.88/id/ISrEVpxTyVs.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567915/txs/51567915%2C51567916%2C51567919/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSUg1AEO96SDKXMb2QqhHqFD5nSiGM7281reYK03TEVZXIq4FSBTOERx2UOzjeveAASxpR80GxfM/spc/hcYD5b3Z7KR5bxQSe6Ivz0HLb23cfaAKvOMfewPIKDP5wCp2ineO5y9-Gy0xq2amZTc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOFXKVY8K1OfLdalFkLoSoUbCKieKW3v7zt0s9rZT3kcCIQDGlC3OA-g37cL-4p3d14XtEOFQnNXart6MfNGp_5TQTw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -510,7 +510,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Eryanping Trail
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760065852/ei/3CToaOzpEK6SmLQPzeDhwAE/ip/52.159.247.182/id/j2L_559nCjc.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSUIt3vh16N0DhcwW1dpxCMOydriM3Pv4AkNBm8oZpJ_EzdadFGSpHGgHrTj9TD7Xn22Z1LQVYJ5/spc/hcYD5XUYTccZlXehdiOszru_rfMSNXjOMqFtlXvHPVwf_4bBK4fCDSVBUg2j5BGjVXk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOgmxXqfGnGkB5F_ZmyT95DrpTBkGt28pd-JQwmLygpbAiEAi3hZ7OwgmpBQ1Tx8UBKfvEs13Y2v7-osaNoaarhjv_k%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Taiping Suspension Bridge
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
