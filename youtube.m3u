@@ -585,7 +585,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Castelul Bran - Dracula's Castle - Casa din Bran
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763016423/ei/hyoVaYiDAdLAlu8PipvLgQY/ip/172.183.131.18/id/8hgQsI1CfsY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631264/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Qi3XLVAkbtVZTGT2qpz_tJyCh8B7Zr4lDcQ2447a9po5MUUlqNhqem_vOxbQaF5bb8HSTHH2dV/spc/6b0G_E66Qy_2O2wokrfRjvZIRJTTlxz-S7ytwyfIBopw4ULyA8X2I_fEkXB2gKN88mc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJJrMf5MJ0EdANodDbtcL3cl7WLzWWzRNJbDV92hlYZ8CIQC2OoZdmhRf2J4oA130pnXjx1xYW6BQJFEfpJkwusrVpg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Sanctuarul de ursi Libearty Zarnesti
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
