@@ -372,7 +372,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433796/ei/5JFYaYWfGeKKr9gPjJC--Qw/ip/74.249.78.163/id/2mCSYvcfhtc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AYUSA3A8q01BorMUQ1b4oEXGV1g4zHp5vYQ6VRWhAmAC2UQjKsu2cXx0GfeS74g_tKr3_9O5xE4pWqa9/spc/wH4Qq5iqSCA9-7RPespFlQtnts0CCfHvAIhrVI7-h6dCSymQDvt7xuUHH9IpYytNVEg/vprv/1/go/1/ns/3bHhUdagncGwm0kgUmSxZ1sR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/a4PVnQTSg4iQO-SOPK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAXavweCRD-0JlHpE0YqVNnEDeb1hMc90ab-zhzKWtvgCIC940a-qNTx8dZdqtXIKX5-WlfrjeV8oEF3SsQE1cDXV/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan TTV News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -399,7 +399,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433805/ei/7ZFYaa3-AfipkucPxviGyQE/ip/74.249.78.163/id/pQfk1SpHqb0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BEZq8VX5kCKdN-UkQtPdpFhEHK8hPagQhVmomgQHxwaSNQ_mTqeLQuThoq1u6gPIauLt-Z4tTL/spc/wH4Qq7m-RZV6EL-UGH7rXjcvbPjQId7FmDmSLVNzqr8591hQb2iweUcdj6cCeaYeMxU/vprv/1/go/1/ns/84UoPyIe9XQYCnHzGutxrrgR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/2RHLTS825g7IlgMssS/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM6hk66U4_m3UykLVDboMsu73zUtMnZsr9g5IofuLctZAiAtQZpOwrU_6CvQ6mPlwTOtUjibjU0mP5b-qhnAb_3jUA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -420,16 +420,16 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433814/ei/9pFYaer5BNiDkucP4pDLkQw/ip/74.249.78.163/id/nEDt2ft4I-4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3Bm_v_7qx7GirRdu9kLdJbRACcSHM4AZATgYlUJqT4pU3I-lOl_IW8yV5u7U2oJW8CR9inSMh19/spc/wH4Qq8XBj5OPG090OzGYtynKW0tDMZkz1hN0fI_JGFPVsBdJi7XA6gQZT4mbpYMkKHGDQA/vprv/1/go/1/ns/S5wl7dtTKQ-lH1t2bHD77AIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/Cf_9tMueG5FMoidbHs/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIXMzpGXC42OB_bsfb7nhsiJhsPgrmKf6q1NXd8btYNICIBqZyO78-2zYCtqwYHawkCqSdvDI6ArL5EiIyl88ewdE/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433817/ei/-ZFYafqXDKbAkucP2L6ywAE/ip/74.249.78.163/id/VXlNGCTEwsQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3Aduyf8Xf8IKO0xR0np_qisRl0dpMdORUgRlJmPPQJkB9llrHOXQ-VsVKjCMlkJfB0XG2GDmo56/spc/wH4Qqzes2QMsqqMQEPlEKkz94XxQ-KOHphAb-Zdg2TkuGPQ9DUwH0nmmGAzT5svqnzo/vprv/1/go/1/ns/gsk4ZbUrW0srkagyZcE1lCIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/4gHIvQRoHXawJdoG9_/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ4wQ-Wcg7E8qe77bOJvzIUwsg4-tKU7fhSWIe4i5nu_AiEApkHOwfxXKp2cMRabsTkyAv28CMv_Vk0YY5Ixh3AOEOU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433818/ei/-pFYaf3pIJbOkucPjouh-AU/ip/74.249.78.163/id/vFyx3NmYP70.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3ALrtpO1kM4MwU3lDzB2XHUlth41gRObuIdg27h-1OXQWi4_ekacT3Wi_D0hlE1x3ZQ8_4_rhyd/spc/wH4Qq5qu1agbpRyRRYJHjutPXurvvXc9ldyClwkq5pMYVQFx5khDHo8MG1PawhfM8xU/vprv/1/go/1/ns/2Q_9Fu9t-RnfP4tFDr9ZwwUR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/uvpNr4-A8RmvU_9EF6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJfHh2NNQP-SbaVdpeXEVGTfUaFYHQC_wS-rNjWNk9F4CIQCu9nLoOn2ji07tJow7FTeQrjS3ZiJ0rgz20Aurt3fw3A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -531,7 +531,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Sanxiantai
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433859/ei/I5JYaZOtM-PFkucPnsrykQY/ip/74.249.78.163/id/dQ7Sd6PGLdA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DD6eKvoMFpoyxk4_QQLEoWw1HhbM_2g1wTPJyWezcKwFDMbS0DnEbG0fupJMAp2wBEOLyhjmz6/spc/wH4Qq7qv_0IFx_mEYp7TQI1czi1_0PDMV7H_nhjsC7iIovAJbcAW8hSAV3bzacsRNyU/vprv/1/go/1/ns/zL7VFFmnM4JG1ZZJzLl8oroR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/r8j4Hva1QynVhtLN3j/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIvBETxE1gsDY8PDmbZTUVAaP-gVrLyMdKt9_xVI5FmoCIQCxSfuyU0AfgCGlGrRCrVDR5Jjm8r2Sn5pTRyua1Dg7hQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Shihmen Reservoir Live Cam
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
