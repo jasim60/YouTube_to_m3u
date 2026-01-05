@@ -756,7 +756,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Greece" tvg-logo="" tvg-id="", Euronews Greece LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767596290/ei/ogxbaZjwJofHybgP_cHMiAk/ip/172.183.91.163/id/uWIhV9gQClg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3CI1JQL1sk5mlivBnujoNTtI1SB3qWgOqwG19ZDVF644qFg-wecKBUMU-iYJsh82yL36xWp2H4j/spc/wH4Qq3SjI32GZi8ZNpkRbv3kzgA69tnujJvq8TI47Uno7LSHu1BhDlaFQBqlgLrJ6pM/vprv/1/go/1/ns/CQTXKUJBiESsbCLTh05StZIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/3ZgVpTNBGrZqzNqSm9/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHojnmOjIqV7TX2oJH2DtkexCxHH0X5TSwAbucefzJ1QCIDe2gM_x54kErFla4ZgHHhfO9Vv3qtAYTO7U61a-1TjV/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" tvg-id="", ANN JapaNews24
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
