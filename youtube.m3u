@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768576520/ei/pwFqaf6nOvKKr9gP-I3RIA/ip/48.214.55.68/id/pQXMVXnluQ8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rJBDDkEQugKf7Ydgel4IWK9gMStivkjyLAdGcThBLiUYeLJAExXMRUmKFkxLZskMpOuWkh44H4/spc/q5xjPLluxknyw3EdqEXXgCxuzUtktShYurB2HzqO4_pe9IikzEq3Nf1vFrF-LfFeVag/vprv/1/go/1/ns/BzGZaKw5nbr2qZ8c7Pw_VkIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/aNJe4WNVvGx3I9-t9ap/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPwjbqWToNPPapGyLjS2em-LspnGTVdGvLNX6TmV6sa1AiEAu7vmhqeaDmFX3VCdPa1on1xVOL1q6sRo3hUsLyXZo1Y%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
