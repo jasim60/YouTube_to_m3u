@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Albania
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770015668/ei/VPd_ab-OBbjHybgPrPO-gQk/ip/20.98.18.66/id/zlTOxvZaEGs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rwTWtujwlGJV0XB9iT0h_fWV7ztnbcyh-uhwnP2GF32SW1WW-yIRr-kX6wmgMFStgbKeBlFHOC/spc/q5xjPANpNMhzjY8sXkM4iyAheNfNmi9vi4yNj-5yrSsYx3jx9q1uUjaUGFbwgD2m-tQp8g/vprv/1/go/1/ns/5W0FG0hQxjxKMNP_PmazlF4S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/av8yX-CmJc15e7O/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgeeVYJoZ-iSj4HfUjHoZ81vjWs9vYL1mwWoIaZiapD_ACIBkv8lnv-pEcsaiidAWQLDe_auon4B1jzgZPDgEBKazu/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Insomniac
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
