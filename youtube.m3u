@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775080767/ei/30DNafXOMJGP2_gP-9e4oQ0/ip/128.24.162.210/id/_NjC2qqPOwI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828961/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGKmDYhM2Azorv5PKVVg409BEiNvFsT72DOl7f6u09XExrZzJGXtJ2HyGVpVikRwrIHsiAwcE694/spc/jlWavaaBtxkVFzzc-tgrDB61k_YstfACQa8zMM-dld7r1UQRz0O0yWosSYFbtLQVTdufvg/vprv/1/go/1/ns/9zS7vaf0-K7e-0wRSif-9LgT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/HNyO7ePzOoDw-BnBu/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAMFLdu1Heaqt11ddptbDOo4nNeiHGVwK3xp1KHJ5fVLVAiEAz0_S0xPaOOv_jb5UBh5TO0lvdOa2zBn8FMIfXUT7VlM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316" tvg-id="", TV9 Telugu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775080780/ei/60DNaa2_O8vXvPEPmb7GyQg/ip/128.24.162.210/id/II_m28Bm-iM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGIUouwgVn9kGGBxC4-vrGx9AIDlyYF9f9dQcmDLoq4AMKHZCMrRbr2jcNWbN9eTAB7hYFKcVv0O/spc/jlWavRgX4Rb2fuvs_FW1dBSVYGAkSg7eVGW3vzHt1ayZC__8eXjxDoW5SvoLPNAASNtPlg/vprv/1/go/1/ns/RK_gpgFqVpQbTmi1Bqhq0u8T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/B94iwraWq3i8VthiV6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgegxJ-0HVn9kTJyZBsK8PQ4dBLPkPW86iVHLAzifim94CIBCut_YKC-Nig8NAnbSiks25ekoaFiq_KiJz6Z5HC60v/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" tvg-id="", NTV Telugu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
