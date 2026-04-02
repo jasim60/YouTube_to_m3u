@@ -441,7 +441,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", News 18 Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775186844/ei/PN_OaY3RK_G1ir4P5snDkQo/ip/52.240.176.165/id/_tTF8AdwNxQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGIXQhBWsEjiKFzCVSORo_P4Q0WKGuJyg9idPZuJGyYI5UVsTUwEElX9MVp3-0P0A9-eie07-Qsu/spc/jlWavfgFk4fZgz1d3s-kfks2Ee9OILDb2LVCabuJh___8O6fK7Q96re2HZpXUp-l3OqQVA/vprv/1/go/1/ns/z_5wbRWMEGIMGPgEx5cM2mwT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/HGUQo8QrG6JczU2xnp7u/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgAvOQPV0W-m2EblzvJ8bZOa5YMB729TAIQMFet87PPecCIQDPyoOxY7Nzkm0mcF15D25Br2GyXZ73zdkPvngJFxdVPQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Wion
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
