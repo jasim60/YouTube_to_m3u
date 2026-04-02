@@ -474,7 +474,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775127520/ei/gPfNaeHvJsOlir4P1LbLsAs/ip/52.161.55.204/id/grx3CIrMwuc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AUUZDGIXX_UemnjaZWhCpA9df6bLGQu9_W0z_0XHvgOzRsWQySM502Y_FztUV6GRXvwGH93DNNRxkspw/spc/jlWavQB-YcW26EUQokZ-qU9CaQPfSRCy_vsfNScIzoE6HjDohJ6RIjqHfHc3wtOV0WCxyA/vprv/1/go/1/ns/YiTwf-QRd8xx6YdR6-AuEi8T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/OjKzD2arXQYnXqrlOT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgDKC4FIhieUn5Zp-GycZDzn-Len0KiXi1kSoWjm_jYSsCIGDGy2dlAUnzLiFWBGDDuE7V9npTW2iOo3aDzK0pebTe/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -546,7 +546,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" tvg-id="", NASA Live: Official Stream of NASA TV's Media Channel
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775127565/ei/rffNaZSgLMPfybgPk8Ky-QU/ip/52.161.55.204/id/6RwfNBtepa4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGKkM5OkQ-CqD4xRw_37f5NHWaxuUamCK9lgOuSifm5LezdpJCn8fHpEqpjvRhuLe2lWNZyq2OQb/spc/jlWavbZgKqCCtZVRt0LmoJ-jP8DU0aspoQsWQpAoUrab6rZMxrw6zwV3PCnDqtSSxc6jfw/vprv/1/go/1/ns/rsZDB84iGzZ8LqvYLsP76HIT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/TDDawcndgmK9Wus-u3iC/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgDxEDiOp35MwhHDoOJYPimPTawdvCI9JZ5tU7BQl_6mACIFWRR-gXD8eFFaH8Q0p3KbOufFU-X3AnneyNbNm9RXG5/file/index.m3u8
 
 #EXTINF:-1 group-title="Romania" tvg-logo="" tvg-id="", Euronews România LIVE
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
